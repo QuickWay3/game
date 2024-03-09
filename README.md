@@ -1,1 +1,1 @@
-# game of TICTACTOE made using only pure OOPS concept
+# game of TICTACTOE made using OOPS concept
